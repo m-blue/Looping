@@ -13,7 +13,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         do{
-            System.out.println("Please choose a selection");
+            System.out.println("Please choose a paint colour");
             System.out.println("1. Red");
             System.out.println("2. Blue");
             System.out.println("3. Yellow");
